@@ -42,7 +42,7 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <div align="center">
 
