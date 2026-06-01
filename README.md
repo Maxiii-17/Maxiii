@@ -37,7 +37,9 @@ class Maxi:
 me = Maxi()
 me.say_hi()
 ```
-
+'''
+python
+'''
 ---
 
 ## 🛠️ Tech Stack
